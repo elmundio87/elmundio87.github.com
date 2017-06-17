@@ -15,6 +15,19 @@ layout: default
   <section class="post">
     {{ content }}
   </section>
+
+  <div class="ssk-group ssk-count">
+    <a href="" class="ssk ssk-facebook"></a>
+    <a href="" class="ssk ssk-twitter"></a>
+    <a href="" class="ssk ssk-google-plus"></a>
+    <a href="" class="ssk ssk-linkedin"></a>
+  </div>
+  <script type="text/javascript">
+    SocialShareKit.init( { text: "", via: 'elmundio87', });
+  </script>
+
+
   {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
 </article>
+
 {% if page.comments != false %}{% include disqus.html %}{% endif %}
