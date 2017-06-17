@@ -1,6 +1,17 @@
 @import url(uno.css);
 @import url(monokai.css);
 
+/* Custom CSS by elmundio87 */
+
+code {
+    color: #FFF;
+}
+
+.highlighter-rouge {
+    background-color: rgba(100,100,100,0.25);
+    color: #444;
+}
+
 /* Modifications */
 
 pre.highlight,
