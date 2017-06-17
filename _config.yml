@@ -3,8 +3,8 @@ title: All Things Automation
 description: 'with Edmund Dipple'
 url: 'http://elmund.io'
 baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
-# disqus_shortname: 'your-disqus-name'
+google_analytics: 'UA-64797721-1'
+disqus_shortname: 'elmundio'
 
 author:
   name: 'Edmund Dipple'
