@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fixing the git-clean command in the Atlassian SVN Git migration scripts"
+title: "Fixing the git-clean command in the Atlassian SVN to Git migration scripts"
 description: ""
 category: "git"
 tags: [git,svn]
