@@ -15,3 +15,5 @@ tags: [powershell]
 *All DSC configuration and dependencies are stored in one Git repository – Teamcity packages the repository using Nuget, then Octopus Deploy unpacks and runs the DSC configuration on each environment in the pipeline.*
 
 You can read the rest on the [DevOpsGuys blog](https://www.devopsguys.com/2017/06/29/refactoring-monolithic-powershell-dsc-project-using-psforge/)!
+
+**Edit: Fixed the link, thanks [@Squire_Matt](https://twitter.com/Squire_Matt)!**
