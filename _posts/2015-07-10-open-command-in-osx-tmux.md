@@ -7,9 +7,11 @@ tags: [homebrew,tmux]
 redirect_from:
   - /osx/2015/07/10/open-command-in-osx-tmux/
 ---
-I recently installed ```tmux``` on my laptop running OSX 10.10.4. I'd not had any issues until I tried to use the 'open' command in order to install a .pkg file manually.
+I recently installed **tmux** on my laptop running OSX 10.10.4. I'd not had any issues until I tried to use the 'open' command in order to install a .pkg file manually.
 
-When I ran ```open package.pkg```, I got the following output: ```The window server could not be contacted. open must be run with a user logged in at the console, either as that user or as root.```
+When I ran **open package.pkg**, I got the following outputl
+
+    The window server could not be contacted. open must be run with a user logged in at the console, either as that user or as root.
 
 I found the fix on a [chinese blog](http://blog.csdn.net/yhcharles/article/details/43225443)
 
