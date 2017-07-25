@@ -4,6 +4,7 @@ title: "Run a script on a Test Kitchen VM before converge starts"
 description: ""
 category: Configuration Management
 tags: [test-kitchen,vagrant,ansible,testing]
+  - /configuration management/2015/07/05/run-a-script-on-a-test-kitchen-vm-before-converge-starts/
 ---
 Recently I hit a snag while using a community vagrant box to test an Ansible role using test-kitchen. 
 

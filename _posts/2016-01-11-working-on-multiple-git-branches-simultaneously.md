@@ -4,6 +4,8 @@ title: "Working on multiple Git branches simultaneously"
 description: "Using git-worktree for easy multi-branch work"
 category: Version Control
 tags: [git,scm]
+redirect_from:
+  - /version control/2016/01/11/working-on-multiple-git-branches-simultaneously/
 ---
 Working on multiple branches at the same time has been a staple part of traditional source control tools such as CVS, SVN and Perforce, due to the fact that each branch is kept in a separate folder. Multiple branch versions of a single file can be opened in text editors and modified alongside each other, and this was taken for granted.
 

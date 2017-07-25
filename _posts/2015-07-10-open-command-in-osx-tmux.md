@@ -4,6 +4,8 @@ title: "Unable to use 'open' command in OSX tmux"
 description: "A fix is posted"
 category: osx
 tags: [homebrew,tmux]
+redirect_from:
+  - /osx/2015/07/10/open-command-in-osx-tmux/
 ---
 I recently installed ```tmux``` on my laptop running OSX 10.10.4. I'd not had any issues until I tried to use the 'open' command in order to install a .pkg file manually.
 
