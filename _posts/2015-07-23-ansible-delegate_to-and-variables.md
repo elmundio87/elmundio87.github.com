@@ -4,6 +4,8 @@ title: "Ansible: delegate_to and variables"
 description: ""
 category: Configuration Management
 tags: [ansible]
+redirect_from:
+  - /configuration management/2015/07/23/ansible-delegate_to-and-variables/
 ---
 One nice feature of Ansible is its ability to "delegate" tasks to the control machine, or any other host that the control machine can SSH to.
 
