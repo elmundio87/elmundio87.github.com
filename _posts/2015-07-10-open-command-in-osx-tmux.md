@@ -9,7 +9,7 @@ redirect_from:
 ---
 I recently installed **tmux** on my laptop running OSX 10.10.4. I'd not had any issues until I tried to use the 'open' command in order to install a .pkg file manually.
 
-When I ran **open package.pkg**, I got the following outputl
+When I ran **open package.pkg**, I got the following output;
 
     The window server could not be contacted. open must be run with a user logged in at the console, either as that user or as root.
 
