@@ -11,9 +11,10 @@ layout: default
     </div>
     <h1 class="post-title">{{ page.title }}</h1>
   </header>
-
+  
   <section class="post">
     {{ content }}
+    {% include advertisements.html %}
   </section>
 
   <div class="ssk-group ssk-count">
@@ -26,8 +27,9 @@ layout: default
     SocialShareKit.init( { text: "", via: 'elmundio87', });
   </script>
 
-
   {% if page.comments != false and site.disqus_shortname %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
 </article>
+
+
 
 {% if page.comments != false %}{% include disqus.html %}{% endif %}
