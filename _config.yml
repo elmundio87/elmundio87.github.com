@@ -1,7 +1,7 @@
 # Site settings
 title: All Things Automation
 description: 'with Edmund Dipple'
-url: 'https://elmund.io'
+url: 'https://www.elmund.io'
 baseurl: '/'
 google_analytics: 'UA-64797721-1'
 disqus_shortname: 'elmundio'
